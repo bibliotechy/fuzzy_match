@@ -25,8 +25,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency 'rspec-core'
   s.add_development_dependency 'rspec-expectations'
   s.add_development_dependency 'rspec-mocks'
-  s.add_development_dependency 'activerecord', '>=3'
-  s.add_development_dependency 'mysql2'
   s.add_development_dependency 'cohort_analysis'
   s.add_development_dependency 'weighted_average'
   s.add_development_dependency 'yard'
